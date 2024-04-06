@@ -1,3 +1,18 @@
 [submodule "Heron"]
 	path = Heron
 	url = https://github.com/haniagorecka/Heron.git
+[submodule "Fibbonacci"]
+	path = Fibbonacci
+	url = https://github.com/haniagorecka/Fibbonacci.git
+[submodule "Subsets"]
+	path = Subsets
+	url = https://github.com/haniagorecka/Subsets.git
+[submodule "SharedSubset"]
+	path = SharedSubset
+	url = https://github.com/haniagorecka/SharedSubset.git
+[submodule "DNA"]
+	path = DNA
+	url = https://github.com/haniagorecka/DNA.git
+[submodule "Cycle"]
+	path = Cycle
+	url = https://github.com/haniagorecka/Cycle.git
